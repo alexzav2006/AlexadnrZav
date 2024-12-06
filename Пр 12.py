@@ -6,7 +6,7 @@ from tkinter import Label
 from tkinter import Button
 
 root = Tk()
-root.title('Иванчихин Илья УБ-31')
+root.title('Александр Завялик УБ-41')
 root.geometry('400x400')
 
 
